@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://drive.google.com/file/d/1FCu9K96RGp4e_w6-k7cxgWek0x3Rdgwx/view?usp=drive_link" alt="Banner">
+  <img src="https://drive.google.com/file/d/1FCu9K96RGp4e_w6-k7cxgWek0x3Rdgwx/view?usp=sharing" alt="Banner">
 </p>
 
 <!-- Título -->
