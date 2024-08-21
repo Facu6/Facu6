@@ -28,7 +28,8 @@ Mi objetivo es aplicar estas habilidades para resolver problemas complejos y gen
 - **Lenguajes:** 🐍 Python
 - **Machine Learning:** 🤖 Scikit-Learn
 - **Visualización:** 📊 PowerBI, 📈 Matplotlib, 🌈 Seaborn
-- **Bases de Datos:** 🗃️ SQL
+- **Bases de Datos:** 🗃️ SQL, 🐝 Hive
+- **Big Data:** 🌐 Big Data
 - **Herramientas:** 🐳 Docker, 💻 GitHub, 📡 Hadoop, 🖥️ Máquinas Virtuales
 
 ## Contacto
