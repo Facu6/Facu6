@@ -18,7 +18,11 @@
 
 <!-- Sobre mí -->
 ## Sobre mí
-Soy un Data Scientist con experiencia en el análisis de datos y en la creación de modelos de Machine Learning. Me especializo en el uso de **Python** y sus bibliotecas como **Pandas**, **Numpy**, **Matplotlib**, y **Seaborn**. También tengo conocimientos en **Big Data**, **SQL**, **PowerBI**, **Docker**, **Hadoop**, **Máquinas Virtuales** y **GitHub**. Mi objetivo es aplicar estas habilidades para resolver problemas complejos y generar valor en las organizaciones.
+Soy un Data Scientist con experiencia en análisis de datos y creación de modelos de Machine Learning. Me especializo en **Python** y sus bibliotecas como **Pandas**, **Numpy**, **Matplotlib**, y **Seaborn**. También tengo conocimientos en **Big Data**, **SQL**, **PowerBI**, **Docker**, **Hadoop**, **Máquinas Virtuales** y **GitHub**.
+
+En mi último trabajo en la Municipalidad de Guaymallén, fui responsable de la recepción, clasificación y distribución de denuncias para su correspondiente trámite. Además, gestioné la digitalización de la información recopilada, organizando y manteniendo bases de datos en Excel para un manejo eficiente de los casos. Esta experiencia fortaleció mis habilidades en la gestión y análisis de datos, así como en la optimización de procesos de flujo de trabajo.
+
+Mi objetivo es aplicar estas habilidades para resolver problemas complejos y generar valor en las organizaciones.
 
 ## Tecnologías y Herramientas
 - **Lenguajes:** Python
@@ -29,4 +33,5 @@ Soy un Data Scientist con experiencia en el análisis de datos y en la creación
 
 ## Contacto
 📫 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/tu-usuario-linkedin) o a través de mi [email](mailto:tuemail@example.com).
+
 
