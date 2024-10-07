@@ -35,6 +35,6 @@ Mi objetivo es aplicar estas habilidades para resolver problemas complejos y gen
 - **Nube:** Google Cloud Platform ☁️
 
 ## Contacto
-📫 Puedes encontrarme en [LinkedIn](www.linkedin.com/in/facundo-dispenza-2ab560298) o a través de mi [email](dispenzafacu6@gmail.com).
+📫 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/facundo-dispenza-2ab560298/) o a través de mi [email](dispenzafacu6@gmail.com).
 
 
